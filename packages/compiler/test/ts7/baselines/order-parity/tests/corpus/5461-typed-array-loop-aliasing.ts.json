@@ -1,0 +1,6 @@
+{
+ "order": [
+  "<repo>/tests/corpus/5461-typed-array-loop-aliasing.ts"
+ ],
+ "diags": []
+}
